@@ -19,7 +19,7 @@ Ce projet est une application web cartographique interactive réalisée avec Lea
 - ![Restaurant](assets/img/marker-icon-red.png) **Restaurant** (rouge)
 - ![Bus](assets/img/marker-icon-blue.png) **Arrêt de bus** (bleu)
 - ![Tram](assets/img/marker-icon-green.png) **Tram** (vert)
-- ![Recherche](assets/img/marker-icon-brown.png) **Résultat de recherche** (marron)
+- ![Recherche](assets/img/marker-icon-grey.png) **Résultat de recherche** (marron)
 - ![Utilisateur](assets/img/marker-icon-gold.png) **Ma position** (doré)
 - ![Clic personnalisé](assets/img/marker-icon-violet.png) **Marqueur personnalisé** (violet)
 
